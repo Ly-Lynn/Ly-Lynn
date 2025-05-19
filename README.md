@@ -25,9 +25,6 @@
                 <a href="22520766@gm.uit.edu.vn">
                     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
                 </a>
-                <a href="https://www.threads.net/@lynn.nekkk">
-                    <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Badge"/>
-                </a>
                 <a href="https://www.facebook.com/profile.php?id=100004107859002">
                     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
                 </a>
