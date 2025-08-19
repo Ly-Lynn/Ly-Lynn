@@ -9,7 +9,7 @@
             <h3 style="font-size: 28px; font-weight: bold;">About Lynn:</h3>
             <ul style="list-style-type: none; padding-left: 0;">
                 <li> 🎓 I am currently a student at University of Information Technology 😳</li>
-                <li> 💻 I like learning about AI and system 😀 and wanna be an AI Engineer/BE developer </li>
+                <li> 💻 An AI Engineer/BE developer </li>
                 <li>🥰 Updated: I am currently intern at Grab as Machine Learning Engineer !</li>
             </ul>
         </div>
